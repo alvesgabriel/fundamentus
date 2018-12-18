@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 scrapy = "*"
+flake8 = "*"
 
 [dev-packages]
 
